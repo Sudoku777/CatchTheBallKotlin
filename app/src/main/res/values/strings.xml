@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatchTheKennyBallKotlin</string>
+    <string name="score_0">SCORE: 0</string>
+    <string name="time_15">Time 15</string>
+</resources>
